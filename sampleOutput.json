@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden and Putin to speak as Ukraine warnings mount - Reuters",
+            "description": "U.S. President Joe Biden and his Russian counterpart Vladimir Putin will speak on Saturday as Western nations warned a war in Ukraine could ignite at any moment.",
+            "url": "https://www.reuters.com/world/biden-putin-speak-ukraine-warnings-mount-2022-02-12/",
+            "urlToImage": "https://www.reuters.com/resizer/ImcYuC3LCXTX0fm0h7NO0xt0DGo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7V5CSUQF4NOHLNRZPQFMGQR4GI.jpg",
+            "publishedAt": "2022-02-12T10:03:00Z",
+            "content": "WASHINGTON, Feb 12 (Reuters) - U.S. President Joe Biden and his Russian counterpart Vladimir Putin will speak on Saturday as Western nations warned a war in Ukraine could ignite at any moment.\r\nPutin… [+4450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "John Branch, Remy Tumin",
+            "title": "Olympics Live: Medal Count and News From the Games - The New York Times",
+            "description": "Lindsey Jacobellis, 36, and Nick Baumgartner, 40, won the Olympic debut of the mixed team snowboard cross. A U.S. Olympic snowboarding coach is under investigation after a former athlete accused him of sexual misconduct.",
+            "url": "https://www.nytimes.com/live/2022/02/11/sports/olympics-medals-winter",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/12/world/12olympics-briefing-header-01/12olympics-briefing-jacobellis-baumgartner2-facebookJumbo-v2.jpg",
+            "publishedAt": "2022-02-12T09:15:29Z",
+            "content": "Lindsey Jacobellis had gone 16 years in search of the Olympic gold medal that she squandered back in 2006, when she fell just before the finish line.\r\nNow she has two.\r\nThe second came in mixed team … [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Van Jones Welcomes New Baby, Plans to 'Consciously Co-Parent' with Friend - TMZ",
+            "description": "Van Jones is taking progressive to a new level -- the activist and CNN commentator is a proud new dad, and he and the baby's mother just might inspire a new movement in parenting.",
+            "url": "https://www.tmz.com/2022/02/12/van-jones-new-baby-girl-friend-noemi-zamacona-consciously-co-parenting/",
+            "urlToImage": "https://imagez.tmz.com/image/9f/16by9/2022/02/11/9f07390458e242b1ac233ebbed9f3c60_xl.jpg",
+            "publishedAt": "2022-02-12T09:00:00Z",
+            "content": "Van Jones is taking progressive to a new level -- the activist and CNN commentator is a proud new dad, and he and the baby's mother just might inspire a new movement in parenting.\r\nVan tells TMZ, \"Af… [+1374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Shanna Moakler's BF Second Guessing Proposal After She Flirts With Lamar Odom - TMZ",
+            "description": "Shanna Moakler's boyfriend is second-guessing proposing because he thinks she's flirting with Lamar Odom on 'CBB.'",
+            "url": "https://www.tmz.com/2022/02/12/shanna-moakler-boyfriend-second-guessing-proposal-flirting-lamar-odom-celebrity-big-brother/",
+            "urlToImage": "https://imagez.tmz.com/image/e5/16by9/2022/02/09/e53873fe336f4124acd893709af7122e_xl.jpg",
+            "publishedAt": "2022-02-12T08:50:00Z",
+            "content": "Shanna Moakler's boyfriend is having second thoughts about proposing ... because he's not liking what he's seeing from her and Lamar Odomon the \"Celebrity Big Brother\" live feed.\r\nSources with direct… [+1340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Katie Rogers, Andrew E. Kramer",
+            "title": "White House Warns Russian Invasion of Ukraine Could Happen at Any Time - The New York Times",
+            "description": "A host of countries, including the United States, has told their citizens to leave Ukraine immediately.",
+            "url": "https://www.nytimes.com/2022/02/11/world/europe/ukraine-russia-diplomacy.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/12/world/12ukraine-briefing-lede02-Video/merlin_201714306_280b2abc-9ecb-4380-a4cc-4a275d9b2628-facebookJumbo.jpg",
+            "publishedAt": "2022-02-12T08:37:30Z",
+            "content": "Russia has made a series of demands of the West, including scaling back the NATO military presence in Eastern Europe to 1990s levels and guaranteeing that Ukraine could never join NATO. (Mr. Putin ha… [+2121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Greg Wyshynski",
+            "title": "Team USA speeds to win over rival Canada in men's ice hockey preliminary round - ESPN",
+            "description": "Team USA bested Canada 4-2 in their Olympic men's ice hockey preliminary-round showdown on Saturday.",
+            "url": "https://www.espn.com/olympics/story/_/id/33271622/team-usa-speeds-win-rival-canada-men-ice-hockey-preliminary-round",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0212%2Fr973313_1024x576_16%2D9.jpg",
+            "publishedAt": "2022-02-12T06:58:44Z",
+            "content": "Team USA defeated Canada 4-2 in their Beijing Olympic men's ice hockey preliminary round showdown on Saturday, outskating their archrivals and preying on Canadian mistakes.\r\nCaptain Andy Miele had a … [+3851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "Supreme Court rejects NYC teachers' religious exemption appeal over vax mandate - New York Post ",
+            "description": "The Supreme Court on Friday shot down an appeal from a group of New York City school teachers who sought to block a COVID-19 vaccine mandate, arguing it violated their religious freedom.",
+            "url": "https://nypost.com/2022/02/12/supreme-court-rejects-nyc-teachers-religious-exemption-appeal-over-vax-mandate/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/newspress-collage-21185703-1644641925362.png?w=1024",
+            "publishedAt": "2022-02-12T05:24:00Z",
+            "content": "The Supreme Court on Friday shot down an appeal from a group of New York City school teachers who sought to block a COVID-19 vaccine mandate, arguing it violated their religious freedom.\r\nJustice Son… [+1364 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Graham Colton",
+            "title": "Freedom Convoy trucker: Canada's leftist politicians recognize convoy's 'incredible leverage,' fear its power - Fox News",
+            "description": "Gord Magill took stock of the Freedom Convoy's political power Friday on \"The Ingraham Angle.\"",
+            "url": "https://www.foxnews.com/media/freedom-convoy-trucker-canadas-politicians-recognize-leverage-fear-power",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd92eddd-4807-44d5-aef4-69187fcfdc69/6a4258e8-dcb9-456f-b439-5c2926f6b5b5/1280x720/match/image.jpg",
+            "publishedAt": "2022-02-12T05:12:54Z",
+            "content": "Freedom Convoy trucker Gord Magill flexed the convoy's political muscles Friday on \"The Ingraham Angle.\"\r\nOntario Premier Doug Ford declared in Friday's state-of-emergency address, \"We cannot I empha… [+2162 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Annie Gasparro, Gabriel T. Rubin",
+            "title": "The Hidden Ways Companies Raise Prices - The Wall Street Journal",
+            "description": "Businesses are passing their rising costs on to consumers with new fees, truncated services and reduced contents in packaged goods, which don’t always show up in inflation data",
+            "url": "https://www.wsj.com/articles/companies-hidden-inflation-consumer-price-index-11644549254",
+            "urlToImage": "https://images.wsj.net/im-484703/social",
+            "publishedAt": "2022-02-12T05:03:00Z",
+            "content": "Lettuce Entertain You Enterprises Inc., a Chicago-based restaurant group, has added a 3% processing fee to checks at many of its restaurants. \r\nHarley-Davidson Inc.\r\nadded a charge last year to its m… [+12155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WWBT NBC12 News"
+            },
+            "author": "NBC12 Newsroom",
+            "title": "Crews battle large blaze at William Fox Elementary School in Richmond - WWBT NBC12 News",
+            "description": "Richmond firefighters battled a large blaze at William Fox Elementary School on Friday night.",
+            "url": "https://www.nbc12.com/2022/02/12/crews-battle-large-blaze-william-fox-elementary-school-richmond/",
+            "urlToImage": "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/gSNLH1McKIXu118GftFbSxPOcak=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/AWKUU3WQCVH2JBBBHLW7RCLKJQ.PNG",
+            "publishedAt": "2022-02-12T04:43:00Z",
+            "content": "RICHMOND, Va. (WWBT) - Richmond firefighters battled a large blaze at William Fox Elementary School on Friday night.\r\nCrews responded to the scene at approximately 10:35 p.m. to Fox Elementary School… [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Vincent Goodwill",
+            "title": "NBA trade deadline couldn't fix LeBron James ignoring signs of predictable Russell Westbrook outcome - Yahoo Sports",
+            "description": "It does seem appropriate, though, to wonder what James was thinking when he either initiated or OK’d the Westbrook acquisition. Westbrook’s movies were well ...",
+            "url": "https://sports.yahoo.com/nba-trade-deadline-couldnt-fix-lebron-james-ignoring-signs-of-predictable-russell-westbrook-outcome-034045814.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IciPkNmTsHJt1iIsPCTsNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-02/97a4fd00-8bb0-11ec-bfd9-a80478f6a88b",
+            "publishedAt": "2022-02-12T03:40:00Z",
+            "content": "It wasnt the most explosive trade deadline, but LeBron James sitting idly as power moves were being made was an unfamiliar sight.\r\nThe Los Angeles Lakers had nothing to give but needed plenty, and us… [+5753 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Americans have yet to see a justification for Ukraine joining NATO: Tulsi Gabbard - Fox News",
+            "description": "Former Rep. Tulsi Gabbard claims Ukraine president's authoritarian actions prevent Biden from claiming he is defending democracy.",
+            "url": "https://www.foxnews.com/media/us-ukraine-nato-tulsi-gabbard",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9c232e1-a733-49f0-ad86-e8dcd970dd34/cdaaa738-2837-4ec5-832b-7c4467127034/1280x720/match/image.jpg",
+            "publishedAt": "2022-02-12T03:34:57Z",
+            "content": "Fox News's Tucker Carlson asked former Hawaii Rep. Tulsi Gabbard why no one has been able to explain why Americans should want Ukraine to join NATO on Tucker Carlson Tonight.\r\nTULSI GABBARD: I've loo… [+895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Kristen Jordan Shamus, Detroit Free Press",
+            "title": "Wayne County, 9 others announce they will drop school mask mandates by end of the month - Detroit Free Press",
+            "description": "Starting Feb. 28, students who attend K-12 schools and those enrolled at day care centers in Oakland County will no longer have to wear masks.",
+            "url": "https://www.freep.com/story/news/local/michigan/oakland/2022/02/11/oakland-county-school-mask-mandate-covid-19/6749972001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/03/PDTF/00741623-9b29-4c9a-9eea-b02932122bf5-IMG_Various_Purchased_An_1_.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+            "publishedAt": "2022-02-12T03:22:30Z",
+            "content": "In the span of two days, 10 Michigan counties with mask mandates for K-12 schools announced they'll drop the requirements before the end of the month. \r\nWayne, Oakland and Washtenaw counties all said… [+8012 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Eric Tucker",
+            "title": "EXPLAINER: Where could revelations about Trump records lead? - Associated Press",
+            "description": "WASHINGTON (AP) — Revelations that Donald Trump took government records with him to Mar-a-Lago are creating a political headache for the former president — and a potential legal one, too. House lawmakers have opened an investigation and the National Archives …",
+            "url": "https://apnews.com/article/donald-trump-mar-a-lago-c2aa2ba9eb2e5643a87553b053c95818",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e2b7b633e28b41c5ab23b97efc70c33d/3000.jpeg",
+            "publishedAt": "2022-02-12T03:22:06Z",
+            "content": "WASHINGTON (AP) Revelations that Donald Trump took government records with him to Mar-a-Lago are creating a political headache for the former president and a potential legal one, too.\r\nHouse lawmaker… [+5764 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Nearly a third of adults over 65 have medical conditions after COVID-19 - The Jerusalem Post",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiRGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2Nvcm9uYXZpcnVzL2FydGljbGUtNjk2MjMz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-02-12T03:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AZCentral"
+            },
+            "author": "Anne Ryman, Chelsea Curtis and BrieAnna J. Frank, The Arizona Republic",
+            "title": "9 Phoenix officers injured and suspect, woman dead: What we know about the police shooting - The Arizona Republic",
+            "description": "Phoenix police said five officers were shot and four others were injured by bullet shrapnel during a barricade situation at a Phoenix home.",
+            "url": "https://www.azcentral.com/story/news/local/phoenix/2022/02/11/phoenix-police-shooting-ambush-what-we-know/6750450001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/02/11/PPHX/2ad1aca3-0612-409c-885b-99c43cc5834b-St._Josphs_Wreath_0051.JPG?auto=webp&crop=4125,2321,x0,y409&format=pjpg&width=1200",
+            "publishedAt": "2022-02-12T03:00:00Z",
+            "content": "A 911 call early Friday morning that a woman had been shot at a home in southwest Phoenix turned into a barricade standoff where nine officers were injured in a hail of gunfire. Two people inside the… [+6048 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Maite Fernández Simon, Adela Suliman, Andrew Jeong",
+            "title": "Judge orders protesters to end blockade of Ambassador Bridge; Ontario premier declares state of emergency, threatens fines, prison time - The Washington Post",
+            "description": "“We’re now two weeks into the siege of the city of Ottawa,” Premier Doug Ford said. “I call it a siege because that’s what it is. It’s an illegal occupation. This is no longer a protest.”",
+            "url": "https://www.washingtonpost.com/world/2022/02/11/canada-freedom-convoy-trudeau-truckers-blockade/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OMKVZ4ULNAI6ZA4PBT67NHGOHQ.jpg&w=1440",
+            "publishedAt": "2022-02-12T02:18:36Z",
+            "content": "Ontario Superior Court Chief Justice Geoffrey Morawetz gave protesters until 7 p.m. to end the blockade at the Ambassador Bridge connecting Windsor, Ontario, and Detroit, the busiest crossing on the … [+7155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Billionaire Rick Caruso announces run for mayor of Los Angeles - FOX 11 Los Angeles",
+            "description": "Billionaire real estate developer Rick Caruso announced his candidacy for mayor of Los Angeles Friday.Subscribe to FOX 11 Los Angeles: https://www.youtube.co...",
+            "url": "https://www.youtube.com/watch?v=b0pyAjrNoko",
+            "urlToImage": "https://i.ytimg.com/vi/b0pyAjrNoko/hqdefault.jpg",
+            "publishedAt": "2022-02-12T02:16:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Android 13 Dev Preview: Top Features + What's New (Android Tiramisu) - Android Central",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl1iRDgVcueU",
+            "urlToImage": null,
+            "publishedAt": "2022-02-12T00:30:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2022 Super Bowl pick, odds, props and best bets: Rams smash Bengals, Stafford wins MVP - CBS Sports",
+            "description": "Will Brinson's Super Bowl pick, props and best bets",
+            "url": "https://www.cbssports.com/nfl/news/2022-super-bowl-pick-odds-props-and-best-bets-rams-smash-bengals-stafford-wins-mvp/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/02/06/dfc5176f-8d93-4dd7-85b2-b5bdf620be9c/thumbnail/1200x675/c15b40cccc7f356b0bbae1e5f9ffd94b/0206-rams.jpg",
+            "publishedAt": "2022-02-12T00:29:00Z",
+            "content": "This truly is the most unusual Super Bowl -- a West Coast matchup of two teams no one thought would end up here, minimal in-week storylines and the odd setting of Los Angeles, a city largely unaffect… [+3930 chars]"
+        }
+    ]
+}
