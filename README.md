@@ -1,6 +1,13 @@
-# Getting Started with Create React App 
+Samples:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+https://user-images.githubusercontent.com/94051441/182823730-eb39846c-313b-4246-b092-c90a3644eb4b.mp4
+
+
+
+https://user-images.githubusercontent.com/94051441/182823783-d46e223e-b97a-45fc-9f24-dcaa43fcd236.mp4
+
+
 
 # About NewsApp
 => Built a Web-based News application. Where, We can read daily dose of news.
